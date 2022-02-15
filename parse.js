@@ -15,4 +15,4 @@ console.log(integer)
 console.log(float)
 console.log(typeof integer, typeof float)  // integer 와 float의 데이터 타입 확인
 // 숫자가 들어있는 문자 데이터를 숫자로 변환해서 사용해야 할땐 parseInt, parseFloat을 사용한다
-// 소숫점 자리 포함해서 사용할 경우는 parseFloat, 정수 부분만 사용시에는 parseInt를 사용한다.
+// 소숫점 자리 포함해서 사용할 경우는 parseFloat, 정수 부분만 사용시에는 parseInt를 사용한다..
